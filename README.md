@@ -1,4 +1,4 @@
 # HTML-Odev2
 
-![friends](friends.jpg)
+![friends](page.png)
  
